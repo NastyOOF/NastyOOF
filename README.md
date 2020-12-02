@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My Name is Ron S.
- I'm developing in Java- and Web Development (PHP, HTML, CSS, JS)
+My Name is Ron S. (17 years old)
+ I'm developing in Java (since 2012) - and Web (since 2020) Development (PHP, HTML, CSS, JS)
 
 ### 📫 You can reach me on Discord: Nasty#2601
 
