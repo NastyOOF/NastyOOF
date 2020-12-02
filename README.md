@@ -6,7 +6,7 @@ My Name is Ron S.
 ### 📫 You can reach me on Discord: Nasty#2601
 
 
-### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NastyOOF)](https://github.com/anuraghazra/github-readme-stats)
+### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NastyOOF&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NastyOOF)](https://github.com/anuraghazra/github-readme-stats)
 
