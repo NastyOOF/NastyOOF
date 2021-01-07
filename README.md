@@ -15,7 +15,7 @@ My Name is Ron S. (17 years old)
 
 
 
-### You can use my Code, if let my Copyright in the source Code.
+### You can use my Code, if you let my Copyright in the source Code.
 
 <!--
 **NastyOOF/NastyOOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
