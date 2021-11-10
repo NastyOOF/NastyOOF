@@ -5,6 +5,8 @@ My Name is Ron S. (18 years old)
 
 ### 📫 You can reach me on Discord: Nasty#2601
 
+## Support me and my work: https://paypal.me/RonSchluseneck
+
 ## My Stats
 
 
