@@ -5,7 +5,7 @@ My Name is Ron S. (19 years old)
 
 ### 📫 You can reach me on Discord: Nasty#2601
 
-<p align="center">[——————————————————————————————]<br><br><a href="#"><img src="https://lanyard.cnrad.dev/api/538115793552932877?idleMessage=AFK..."></a></p>
+<p align="center">[——————————————————————————————]<br><br><a href="https://discord.com/users/538115793552932877"><img src="https://lanyard.cnrad.dev/api/538115793552932877?idleMessage=AFK..."></a></p>
 <p align="center">[——————————————————————————————]</p>
 
 
