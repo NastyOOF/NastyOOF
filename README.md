@@ -24,7 +24,6 @@
 
 - A passionate front & backend developer
 - Working with Discord Apps
-- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
